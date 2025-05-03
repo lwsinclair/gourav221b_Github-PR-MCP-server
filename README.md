@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-gourav221b-github-pr-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-gourav221b-github-pr-mcp-server)
+
 # GitHub PR MCP Server
 
 An MCP (Model-Controller-Presenter) server built with TypeScript for analyzing GitHub Pull Requests.
